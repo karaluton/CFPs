@@ -8,3 +8,4 @@ Non-traditional paths are becoming more common place in the tech industry. There
 
 ## Presented at:
 - UndergroundJS (August 2019)
+- Music City Tech (September 2019)
