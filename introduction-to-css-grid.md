@@ -9,6 +9,7 @@ When it comes to building responsive web layouts we’ve used tables, floats and
 I really aimed for this talk to use easy, beginner-friendly terms so anyone can walk in and understand how to work with Grid. Grid is really changing the way we as developers and designers should think about layouts as well as making the sites we build more accessible. That's something I am really passionate about showing in this talk.
 
 ## Presented at:
+- Music City Tech (September 2019)
 - CodeStock
 - Franklin Developer Lunch and Learn
 - Nashville Women Programmers
