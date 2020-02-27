@@ -1,4 +1,4 @@
-# From Tutus To Tech: Looking Back on Transitioning Careers (Twice!)
+# From Tutus To Tech: Looking Back on Changing Careers (Twice!)
 
 ## Abstract
 
